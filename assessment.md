@@ -1,49 +1,50 @@
-# Assessment DIP
+Zelfbeoordeling assessment
+
+Naam: 
+Klas: 
+
 
 # Assignments
 
-## Flask
-- Aanmaken routes
-- Aanmaken pagina's
-- Formulier maken (bijvoorbeed contactformulier)
-- 
-- Telefoonboek (gekoppeld aan db)
-- Film Portfolio (gekoppeld aan db)
-- Documentatie site
+## Voorwaardelijk
+0. Het gemaakte werk is authentiek
+1. Repareren Applicatie (# punten)
+2. Pagina's aantrekkelijk vormgegeven (# punten)
 
-### Fixes
-- Fix security
-- Fix missing imports
-- Fix wrong routes
-- Fix wrong templates
+## Functionaliteiten
 
-# Databases
-- Database design
-- ERD tekenen
+### Login-functionaliteit
+Zelfbeoordeling: ( # Punten)
 
-# Telefoonboek
-- Gekoppeld aan database
-- Functionaliteiten:
-    - Opzoeken telefoonnummer op basis van naam / nummer
-    - Toevoegen telefoonnummer
-    - Verwijderen telefoonnummer
-    - Laten zien van alle telefoonummers
-    - (Bonus) Bij meer dan 10 telefoonnummers een vorige/volgende pagina knop
-    - (Bonus) Telefoonboek uitbreiden met adresgegevens, Xitter accounts etc.
+[ ] Login
+[ ] Register
+[ ] Dashboard voor ingelogde gebruikers
+[ ] Uitloggen
 
-# Film Portfolio
-- Gekoppeld aan database
-- Functionaliteiten
-    - Laten zien wanneer welke films bekeken zijn
-    - Films kunnen filteren op basis van genre, titel, acteurs etc.
-    - 
+### Telefoonboek
+Zelfbeoordeling: ( # Punten)
 
-# Documentatie site
-- Laten zien van documentatie
-- Laten zien welke documentatiepagina's er allemaal zijn (interactive)
-- Toevoegen van nieuwe pagina
-- Zoeken in documentatie
-- 
+[ ] Weergeven namen & telefoonnummers uit de database
+[ ] Toevoegen telefoonnummer
+[ ] Wijzigen telefoonnummer
+[ ] Verwijderen telefoonnummer
 
-# CSS met Bootstrap
-- Zorg ervoor dat alle pagina's uniform en aantrekkelijk zijn vormgegeven.
+[ ] Bonus (beschrijf hieronder wat je hebt gedaan)
+
+### Film Portfolio
+Zelfbeoordeling: ( # Punten)
+
+[ ] Weergeven bekeken films
+[ ] Bekeken films toevoegen
+[ ] Films toevoegen
+[ ] Films wijzigen
+[ ] Films verwijderen
+
+[ ] Bonus (beschrijf hieronder wat je hebt gedaan)
+
+## Bonus functionaliteit
+Zelfbeoordeling: ( # Punten)
+
+[ ] Bonus (beschrijf hieronder wat je hebt gedaan)
+
+Beschrijf hier jouw functionaliteit uitgebreid.
