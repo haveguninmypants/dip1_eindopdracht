@@ -18,17 +18,25 @@ Klas:
 Zelfbeoordeling: ( # Punten)
 
 [ ] Login
+
 [ ] Register
+
 [ ] Dashboard voor ingelogde gebruikers
+
 [ ] Uitloggen
+
 
 ### Telefoonboek
 Zelfbeoordeling: ( # Punten)
 
 [ ] Weergeven namen & telefoonnummers uit de database
+
 [ ] Toevoegen telefoonnummer
+
 [ ] Wijzigen telefoonnummer
+
 [ ] Verwijderen telefoonnummer
+
 
 [ ] Bonus (beschrijf hieronder wat je hebt gedaan)
 
@@ -36,10 +44,15 @@ Zelfbeoordeling: ( # Punten)
 Zelfbeoordeling: ( # Punten)
 
 [ ] Weergeven bekeken films
+
 [ ] Bekeken films toevoegen
+
 [ ] Films toevoegen
+
 [ ] Films wijzigen
+
 [ ] Films verwijderen
+
 
 [ ] Bonus (beschrijf hieronder wat je hebt gedaan)
 
